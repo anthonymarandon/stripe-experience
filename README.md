@@ -14,7 +14,7 @@ Ce projet est une application Next.js avec intégration Stripe pour les paiement
 
 1. **Cloner le projet**
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/anthonymarandon/stripe-experience.git
    cd stripe-test
    ```
 
